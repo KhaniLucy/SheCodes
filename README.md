@@ -29,8 +29,8 @@ Understand the core princples of JavaScript, variables, objects, loops and funct
 
 
 
-## Screenshots
-
-![App Screenshot](![148018](https://github.com/KhaniLucy/SheCodes/assets/132388392/4b69b778-15f3-488f-8963-04925862626c)
-)
+## Certificate
+<p align="center">
+<img width="990px" height="390px" src="4080198.png">
+</p>
 
