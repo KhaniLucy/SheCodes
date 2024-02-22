@@ -31,6 +31,6 @@ Understand the core princples of JavaScript, variables, objects, loops and funct
 
 ## Certificate
 <p align="center">
-<img width="990px" height="390px" src="408018.png">
+<img width="800px" height="390px" src="https://github.com/KhaniLucy/SheCodes/blob/main/148018.png">
 </p>
 
